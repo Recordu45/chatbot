@@ -47,12 +47,12 @@ async def chatbot(client, message):
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ᴄʀᴇᴀᴛᴇʀ [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](https://t.me/its_star_boi)
 ┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Star_X_Network)
-┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/Best_FriendsFor_Ever)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴄʜᴀᴛ](https://t.me/Star_X_Support)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Its_star_boi""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💮", url=f"https://t.me/Best_FriendsFor_Ever")]]
+            [[InlineKeyboardButton("🌼 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💮", url=f"https://t.me/Star_X_Support")]]
         ),
     ) 
 
